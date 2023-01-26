@@ -1,0 +1,14 @@
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Frmistatistik.resources
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmAnaForm.resources
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafikler.resources
+E:\Visual Studio Programları\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
